@@ -1,0 +1,7 @@
+Semana2
+
+Atividade - Realizar o curso Introdução à Linguagem HTML
+https://www.udemy.com/share/101qTe3@EhLVrMecTBg1_EczRU4oxJcvz0oviIpGhiJ1f0e-N4MKZcy0_2xdgwkpptYVnU4i/
+Subir a página para a pasta da "semana 2" no github
+
+Projeto - Criar uma página "Sobre Mim com 3 páginas HTML do nosso perfil" 

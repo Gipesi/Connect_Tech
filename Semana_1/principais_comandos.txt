@@ -1,0 +1,18 @@
+Projeto - No GitHub criar um repositório com o nome da squad (Connect Tech)
+Dentro do repositório criar um pasta com o nome "Semana 1" e subir o arquivo contendo os principais comandos do GIT
+
+********************************************Comandos Basicos do Git*************************************************
+
+git config --global user.name "João Silva“    => Configurar nome 
+git config --global user.email "exemplo@seuemail.com.br"  => Configurar email padrão da conta
+git version  => verificar a version instalada do git
+git init <diretório) => iniciar um repositório
+git clone => para clonar um repositório.
+git add <nome_do_arquivo> => Alterações ou adições são adicionadas ao índice usando o comando add
+git commit –m “mensagem relacionada ao Commit” => Tendo certeza das alterações usar "commit" para validar.
+git push origin master => subir versão local para versão remota
+git log => mostra historico de commits
+
+
+
+**********************************************************************************************************************

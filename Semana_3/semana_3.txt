@@ -1,0 +1,8 @@
+Semana3
+
+Atividade - Realizar os cursos
+Curso de CSS Para Completos Iniciantes
+https://youtu.be/r11FflkQqJs
+
+CSS Grid Layout e Flexbox - Quando Utilizar
+https://youtu.be/x-4z_u8LcGc
